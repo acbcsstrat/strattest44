@@ -3,4 +3,5 @@ file2
 hello world
 
 welcome to stratford
-`
+
+test line`
