@@ -2,4 +2,5 @@ file2
 
 hello world
 
-compromise2222
+welcome to stratford
+`
