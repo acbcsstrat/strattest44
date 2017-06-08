@@ -2,5 +2,4 @@ file2
 
 hello world
 
-conflicting line
-`
+compromise
