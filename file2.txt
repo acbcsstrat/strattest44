@@ -2,4 +2,6 @@ file2
 
 hello world
 
+hello again
+
 `
