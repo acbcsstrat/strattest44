@@ -3,4 +3,6 @@ file2
 hello world
 
 welcome to stratford
+now for github
+
 `
